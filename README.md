@@ -19,13 +19,16 @@ If you are familiar with Git, you can set up this repository on your local machi
 You will have to ensure that you have the required software to run the tutorial. See the requirements section below.
 
 ### 3. Download Locally.
+Select the green clone or download button near the top right of this page. Select download zip and save to your local machine. Unzip the folder and follow the instructions in the requirements section.
 
 ## Requirements
-Running the file herc_nlp_tutorial.ipynb requires
+Running the file herc_nlp_tutorial.ipynb locally requires
 1. Python 3
 2. pandas module and all dependencies
 3. Jupyter Notebook
 
 The easiest way to get started is to download the Anaconda distribution (https://www.anaconda.com/distribution/) and follow the download/install instructions.
 
-Afterwards, using your command line, enter <code>jupyter notebook</code> in the root directory of this repository. Once the directory loads in the browser, open the file 'herc_nlp_tutorial.ipynb' and follow the instructions to go through the tutorial.
+Afterwards, using your command line interface\*, enter <code>jupyter notebook</code> in the root directory of this repository. Once the directory loads in the browser, open the file 'herc_nlp_tutorial.ipynb' and follow the instructions to go through the tutorial.
+
+\* *basic tutorial for using command line interface can be found here: https://tutorial.djangogirls.org/en/intro_to_command_line/*
