@@ -9,3 +9,5 @@ Running the file herc_nlp_tutorial.ipynb requires
 The easiest way to get started is to download the Anaconda distribution (https://www.anaconda.com/distribution/) and follow the download/install instructions.
 
 Afterwards, using your command line, enter <code>jupyter notebook</code> in the root directory of this repository. Once the directory loads in the browser, open the file 'herc_nlp_tutorial.ipynb' and follow the instructions to go through the tutorial.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aadadey/herc_nlp/binder?filepath=herc_nlp_tutorial.ipynb)
